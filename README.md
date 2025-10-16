@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://holopin.me/mateuszrak101)](https://holopin.io/@mateuszrak101
+[![An image of @mateuszrak101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mateuszrak101)](https://holopin.io/@mateuszrak101)
 <!--
 **MateuszRak101/MateuszRak101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
